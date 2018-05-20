@@ -1,1 +1,5 @@
-print "hello world"
+def print_hello():
+	''' prints hello xd '''
+	print "hello world"
+
+
